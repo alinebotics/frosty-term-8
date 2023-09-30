@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.4.0",
+    "cookiecutter_context": {
+      "project_name": "Frosty Term",
+      "project_slug": "frosty_term_8",
+      "project_dash_slug": "frosty-term-8",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "alinelaistavares@gmail.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
